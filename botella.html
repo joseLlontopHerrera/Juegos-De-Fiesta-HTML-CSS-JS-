@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gira la Botella</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background-color: #111;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      position: relative;
+    }
+
+    #botella {
+      width: 300px;
+      transition: transform 4s ease-out;
+    }
+
+    #btnGirar {
+      position: absolute;
+      bottom: 30px;
+      background-color: #28a745;
+      color: white;
+      font-size: 1.5rem;
+      border: none;
+      padding: 15px 30px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    #cerrar {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      font-size: 2rem;
+      color: white;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    #cerrar:hover {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <a id="cerrar" href="index.html">✖</a>
+  <img id="botella" src="assets/botella.png" alt="Botella" />
+  <button id="btnGirar">Girar</button>
+
+<script>
+  const btn = document.getElementById('btnGirar');
+  const botella = document.getElementById('botella');
+  let rotacionTotal = 0;
+
+  btn.addEventListener('click', () => {
+    const giroAleatorio = 360 * 5 + Math.floor(Math.random() * 360); // 5 vueltas + random
+    rotacionTotal += giroAleatorio;
+    botella.style.transition = 'transform 4s ease-out';
+    botella.style.transform = `rotate(${rotacionTotal}deg)`;
+  });
+</script>
+
+</body>
+</html>

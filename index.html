@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Juegos de Fiesta</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Juegos de Fiesta 🎉</h1>
+    <div id="menu">
+      <button onclick="loadGame('ruleta')">🎯 Ruleta de Retos</button>
+      <button onclick="loadGame('yoNunca')">🙊 Yo Nunca Nunca</button>
+      <button onclick="loadGame('verdadReto')">🤔 Verdad o Reto</button>
+      <button onclick="loadGame('cartas')">🃏 Cartas Locas</button>
+      <button onclick="loadGame('trivia')">🧠 Trivia con Castigo</button>
+      <button onclick="loadGame('botella')">🍾 Gira la Botella</button>
+    </div>
+
+    <div id="gameArea">
+      <!-- Aquí se cargará el juego -->
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script src="js/ruleta.js"></script>
+  <script src="js/yoNunca.js"></script>
+  <script src="js/verdadReto.js"></script>
+  <script src="js/cartas.js"></script>
+  <script src="js/trivia.js"></script>
+  <script src="js/botella.js"></script>
+  
+</body>
+</html>

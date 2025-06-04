@@ -1,0 +1,1212 @@
+{
+  "categorias": {
+    "Historia": [
+      {
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1935", "1939", "1941", "1945"],
+        "respuesta": "1939",
+        "castigo": "Toma 2 tragos. Elige a alguien para que tome 1 contigo."
+      },
+      {
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "opciones": ["Julio César", "Augusto", "Nerón", "Trajano"],
+        "respuesta": "Augusto",
+        "castigo": "Dale un beso en la mejilla a la persona de tu derecha."
+      },
+      {
+        "pregunta": "¿En qué año cayó el Muro de Berlín?",
+        "opciones": ["1985", "1989", "1991", "1993"],
+        "respuesta": "1989",
+        "castigo": "Haz un baile sexy (o un intento divertido) por 30 segundos. Luego, toma un shot."
+      },
+      {
+        "pregunta": "¿Cuál de estas civilizaciones antiguas se desarrolló en Mesopotamia?",
+        "opciones": ["Egipcia", "Griega", "Sumeria", "Romana"],
+        "respuesta": "Sumeria",
+        "castigo": "Fondo blanco tu bebida (o un trago largo)."
+      },
+      {
+        "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+        "opciones": ["Stalin", "Lenin", "Trotsky", "Zar Nicolás II"],
+        "respuesta": "Lenin",
+        "castigo": "Susúrrale un secreto picante (inventado) al oído a la persona de tu izquierda."
+      },
+      {
+        "pregunta": "¿En qué batalla fue derrotado Napoleón Bonaparte definitivamente?",
+        "opciones": ["Austerlitz", "Borodino", "Waterloo", "Trafalgar"],
+        "respuesta": "Waterloo",
+        "castigo": "Quítate una prenda (calcetín, pulsera, etc.) por el resto de la ronda. Si no quieres, toma 3 tragos."
+      },
+      {
+        "pregunta": "¿Qué evento se considera el inicio de la Primera Guerra Mundial?",
+        "opciones": ["La invasión de Polonia", "El hundimiento del Lusitania", "El asesinato del Archiduque Francisco Fernando", "La Batalla del Somme"],
+        "respuesta": "El asesinato del Archiduque Francisco Fernando",
+        "castigo": "Toma un shot. El jugador que te hizo la pregunta toma uno también."
+      },
+      {
+        "pregunta": "¿Quién proclamó la independencia del Perú?",
+        "opciones": ["Simón Bolívar", "José de San Martín", "Túpac Amaru II", "Ramón Castilla"],
+        "respuesta": "José de San Martín",
+        "castigo": "Elige a dos jugadores para que se den un beso en la mejilla."
+      },
+      {
+        "pregunta": "¿Qué país fue el primero en llegar a la Luna?",
+        "opciones": ["Unión Soviética", "China", "Estados Unidos", "Alemania"],
+        "respuesta": "Estados Unidos",
+        "castigo": "Todos los jugadores del sexo opuesto al tuyo toman un trago."
+      },
+      {
+        "pregunta": "¿Durante qué siglo ocurrió la Peste Negra en Europa?",
+        "opciones": ["Siglo XII", "Siglo XIII", "Siglo XIV", "Siglo XV"],
+        "respuesta": "Siglo XIV",
+        "castigo": "Intenta lamerte el codo. Si no puedes, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿Quién fue la reina de Egipto conocida por su relación con Julio César y Marco Antonio?",
+        "opciones": ["Nefertiti", "Hatshepsut", "Cleopatra", "Isis"],
+        "respuesta": "Cleopatra",
+        "castigo": "Dale un beso en la mano a la persona que consideres más elegante del grupo."
+      },
+      {
+        "pregunta": "¿En qué año descubrió Cristóbal Colón América?",
+        "opciones": ["1452", "1492", "1502", "1512"],
+        "respuesta": "1492",
+        "castigo": "Toma un trago por cada error que hayas tenido hasta ahora en el juego."
+      },
+      {
+        "pregunta": "¿Cuál fue la capital del Imperio Inca?",
+        "opciones": ["Machu Picchu", "Cajamarca", "Cusco", "Lima"],
+        "respuesta": "Cusco",
+        "castigo": "Habla con voz seductora hasta tu próximo turno. Cada vez que olvides, toma un trago."
+      },
+      {
+        "pregunta": "¿Qué faraón egipcio es famoso por su tumba casi intacta descubierta por Howard Carter?",
+        "opciones": ["Ramsés II", "Akenatón", "Tutankamón", "Keops"],
+        "respuesta": "Tutankamón",
+        "castigo": "Elige a alguien para que te dé de beber en la boca (un trago pequeño)."
+      },
+      {
+        "pregunta": "¿Qué guerra enfrentó a las ciudades de Atenas y Esparta en la antigua Grecia?",
+        "opciones": ["Guerras Médicas", "Guerra del Peloponeso", "Guerras Púnicas", "Guerra de Troya"],
+        "respuesta": "Guerra del Peloponeso",
+        "castigo": "Haz un striptease de un calcetín o guante de forma exagerada y teatral."
+      },
+      {
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "opciones": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "respuesta": "George Washington",
+        "castigo": "El grupo inventa una regla de bebida que debes seguir por 3 rondas."
+      },
+      {
+        "pregunta": "¿En qué país se originó el Renacimiento?",
+        "opciones": ["Francia", "España", "Italia", "Inglaterra"],
+        "respuesta": "Italia",
+        "castigo": "Beso volado a la persona que te parezca más atractiva. Luego, toma un trago."
+      },
+      {
+        "pregunta": "¿Qué imperio fue gobernado por Gengis Kan?",
+        "opciones": ["Imperio Otomano", "Imperio Romano", "Imperio Mongol", "Imperio Persa"],
+        "respuesta": "Imperio Mongol",
+        "castigo": "Toma 3 tragos seguidos."
+      },
+      {
+        "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "opciones": ["Tratado de Tordesillas", "Tratado de Versalles", "Tratado de París", "Pacto de Acero"],
+        "respuesta": "Tratado de Versalles",
+        "castigo": "Elige a un jugador. Ese jugador debe tomar un trago cada vez que tú tomes, hasta tu próximo turno."
+      },
+      {
+        "pregunta": "¿Quiénes fueron los principales contendientes en la Guerra Fría?",
+        "opciones": ["Alemania y Japón", "Estados Unidos y la Unión Soviética", "China y Reino Unido", "Francia e Italia"],
+        "respuesta": "Estados Unidos y la Unión Soviética",
+        "castigo": "Verdad o Atrevimiento: el grupo elige. Si no cumples, fondo blanco."
+      },
+      {
+        "pregunta": "¿Qué movimiento lideró Martin Luther King Jr.?",
+        "opciones": ["Movimiento por los derechos de las mujeres", "Movimiento por los derechos civiles", "Movimiento anti-guerra", "Movimiento ecologista"],
+        "respuesta": "Movimiento por los derechos civiles",
+        "castigo": "Intercambia un accesorio (reloj, pulsera, etc.) con la persona de enfrente hasta tu próximo fallo."
+      },
+      {
+        "pregunta": "¿En qué país se encuentra la antigua ciudad de Petra?",
+        "opciones": ["Egipto", "Grecia", "Jordania", "Turquía"],
+        "respuesta": "Jordania",
+        "castigo": "Toma un shot sin usar las manos."
+      },
+      {
+        "pregunta": "¿Cuál fue la 'Gran Depresión'?",
+        "opciones": ["Una epidemia mundial", "Una crisis económica mundial", "Una guerra civil en EE.UU.", "Un desastre natural"],
+        "respuesta": "Una crisis económica mundial",
+        "castigo": "Canta una estrofa de una canción romántica mirando fijamente a otro jugador. Luego, ambos toman."
+      },
+      {
+        "pregunta": "¿Quién escribió 'El Diario de Ana Frank'?",
+        "opciones": ["Ana Frank", "Margot Frank", "Otto Frank", "Un editor anónimo"],
+        "respuesta": "Ana Frank",
+        "castigo": "La persona a tu derecha te da un beso en la mejilla."
+      },
+      {
+        "pregunta": "¿Qué construyeron los antiguos egipcios como tumbas para sus faraones?",
+        "opciones": ["Zigurat", "Pirámides", "Templos", "Palacios"],
+        "respuesta": "Pirámides",
+        "castigo": "Sirve las bebidas para todos en la próxima ronda."
+      },
+      {
+        "pregunta": "¿Qué personaje histórico es conocido como 'El Libertador' en América del Sur?",
+        "opciones": ["José de San Martín", "Bernardo O'Higgins", "Simón Bolívar", "Antonio José de Sucre"],
+        "respuesta": "Simón Bolívar",
+        "castigo": "Toma un trago por cada persona jugando."
+      },
+      {
+        "pregunta": "¿En qué ciudad italiana se encuentra el Coliseo Romano?",
+        "opciones": ["Venecia", "Florencia", "Roma", "Milán"],
+        "respuesta": "Roma",
+        "castigo": "Haz un 'culito-culito' (mover las caderas) por 15 segundos."
+      },
+      {
+        "pregunta": "¿Qué explorador portugués fue el primero en circunnavegar África para llegar a la India?",
+        "opciones": ["Fernando de Magallanes", "Vasco da Gama", "Cristóbal Colón", "Américo Vespucio"],
+        "respuesta": "Vasco da Gama",
+        "castigo": "Elige a alguien para que te haga un cumplido muy exagerado. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Cuál fue la dinastía que construyó la Ciudad Prohibida en Pekín?",
+        "opciones": ["Dinastía Han", "Dinastía Tang", "Dinastía Ming", "Dinastía Qing"],
+        "respuesta": "Dinastía Ming",
+        "castigo": "Baila la Macarena sin música por 30 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Qué evento desencadenó la participación de Estados Unidos en la Segunda Guerra Mundial?",
+        "opciones": ["La invasión de Francia", "La Batalla de Inglaterra", "El ataque a Pearl Harbor", "El desembarco de Normandía"],
+        "respuesta": "El ataque a Pearl Harbor",
+        "castigo": "Todos toman un trago, ¡salud!"
+      },
+      {
+        "pregunta": "¿Quién fue Juana de Arco?",
+        "opciones": ["Una reina de Inglaterra", "Una científica francesa", "Una heroína militar francesa", "Una escritora medieval"],
+        "respuesta": "Una heroína militar francesa",
+        "castigo": "Recibe un beso en la frente de la persona que elijas."
+      },
+      {
+        "pregunta": "¿Qué civilización construyó Machu Picchu?",
+        "opciones": ["Azteca", "Maya", "Inca", "Moche"],
+        "respuesta": "Inca",
+        "castigo": "Toma 2 shots si te equivocas, 1 si aciertas pero igual te castigan."
+      },
+      {
+        "pregunta": "¿Qué emperador romano legalizó el cristianismo?",
+        "opciones": ["Nerón", "Augusto", "Constantino", "Trajano"],
+        "respuesta": "Constantino",
+        "castigo": "Elige a dos jugadores que deben decirse algo bonito. El que se ría primero, toma."
+      },
+      {
+        "pregunta": "¿Cuál de estos no fue uno de los Tres Grandes Aliados en la Segunda Guerra Mundial?",
+        "opciones": ["Winston Churchill", "Franklin D. Roosevelt", "Charles de Gaulle", "Iósif Stalin"],
+        "respuesta": "Charles de Gaulle",
+        "castigo": "Haz twerking por 10 segundos. Si no sabes, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿En qué país se encuentra el Partenón?",
+        "opciones": ["Italia", "Egipto", "Grecia", "Turquía"],
+        "respuesta": "Grecia",
+        "castigo": "Toma un trago con los ojos cerrados."
+      },
+      {
+        "pregunta": "¿Qué se conoce como el 'Día D' en la Segunda Guerra Mundial?",
+        "opciones": ["El bombardeo de Hiroshima", "La rendición de Alemania", "El desembarco de Normandía", "El ataque a Pearl Harbor"],
+        "respuesta": "El desembarco de Normandía",
+        "castigo": "Beso en el cuello a la persona de tu izquierda (si ambos están de acuerdo, si no, beso en la mejilla y ambos toman)."
+      },
+      {
+        "pregunta": "¿Quién fue el principal dios de los vikingos?",
+        "opciones": ["Thor", "Loki", "Odín", "Frey"],
+        "respuesta": "Odín",
+        "castigo": "Inventa un apodo sexy para cada jugador. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Qué revolución inspiró la frase 'Libertad, Igualdad, Fraternidad'?",
+        "opciones": ["Revolución Americana", "Revolución Rusa", "Revolución Francesa", "Revolución Industrial"],
+        "respuesta": "Revolución Francesa",
+        "castigo": "El último en tocarse la nariz toma un shot."
+      },
+      {
+        "pregunta": "¿Cuál era el nombre del barco en el que los peregrinos llegaron a América en 1620?",
+        "opciones": ["Santa María", "Discovery", "Mayflower", "Endeavour"],
+        "respuesta": "Mayflower",
+        "castigo": "Toma un trago cada vez que alguien diga tu nombre hasta tu próximo turno."
+      },
+      {
+        "pregunta": "¿Qué guerra se libró entre el Norte y el Sur de Estados Unidos en el siglo XIX?",
+        "opciones": ["Guerra de Independencia", "Guerra Civil", "Guerra Mexicano-Estadounidense", "Guerra de 1812"],
+        "respuesta": "Guerra Civil",
+        "castigo": "Elige a alguien para que te haga 'caballito' por 10 segundos. Si se niega, ambos toman 2 tragos."
+      },
+      {
+        "pregunta": "¿Quién fue el sucesor de Lenin en la Unión Soviética?",
+        "opciones": ["Trotsky", "Stalin", "Kruschev", "Gorbachev"],
+        "respuesta": "Stalin",
+        "castigo": "Todos los que lleven algo de color rojo toman un trago."
+      },
+      {
+        "pregunta": "¿Qué ciudad fue sepultada por la erupción del Monte Vesubio en el año 79 d.C.?",
+        "opciones": ["Roma", "Atenas", "Pompeya", "Cartago"],
+        "respuesta": "Pompeya",
+        "castigo": "Haz una pose sugerente y mantenla por 15 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Qué imperio construyó la Gran Muralla China?",
+        "opciones": ["Imperio Han", "Varias dinastías, principalmente Qin y Ming", "Imperio Mongol", "Imperio Tang"],
+        "respuesta": "Varias dinastías, principalmente Qin y Ming",
+        "castigo": "Elige a un jugador para darle un masaje en los hombros de 30 segundos. Si se niega, ambos toman."
+      },
+      {
+        "pregunta": "¿Quién fue el 'Rey Sol' de Francia?",
+        "opciones": ["Luis XIII", "Luis XIV", "Luis XV", "Luis XVI"],
+        "respuesta": "Luis XIV",
+        "castigo": "Toma un shot si eres soltero/a, toma dos si estás en una relación."
+      },
+      {
+        "pregunta": "¿Qué evento marcó el fin de la Edad Media y el inicio de la Edad Moderna (aproximadamente)?",
+        "opciones": ["La invención de la imprenta", "La caída de Constantinopla", "El descubrimiento de América", "Todas las anteriores son consideradas"],
+        "respuesta": "Todas las anteriores son consideradas",
+        "castigo": "Dale un beso en la frente a la persona de tu izquierda."
+      },
+      {
+        "pregunta": "¿En qué país nació Adolf Hitler?",
+        "opciones": ["Alemania", "Austria", "Polonia", "Suiza"],
+        "respuesta": "Austria",
+        "castigo": "Fondo blanco lo que te quede en el vaso (o un shot si está lleno)."
+      },
+      {
+        "pregunta": "¿Qué es el 'Apartheid'?",
+        "opciones": ["Un sistema de gobierno democrático", "Un festival cultural africano", "Un sistema de segregación racial en Sudáfrica", "Una alianza económica"],
+        "respuesta": "Un sistema de segregación racial en Sudáfrica",
+        "castigo": "No puedes hablar hasta tu próximo turno. Solo puedes comunicarte con mímica. Si hablas, toma un shot."
+      },
+      {
+        "pregunta": "¿Quién fue el líder de la lucha por la independencia de la India contra el dominio británico?",
+        "opciones": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Indira Gandhi"],
+        "respuesta": "Mahatma Gandhi",
+        "castigo": "Elige: beso, verdad osada o shot."
+      },
+      {
+        "pregunta": "¿Cuál fue la principal ruta comercial que conectaba Oriente y Occidente en la antigüedad y la Edad Media?",
+        "opciones": ["La Ruta del Incienso", "La Ruta de la Seda", "La Ruta del Ámbar", "La Ruta Transahariana"],
+        "respuesta": "La Ruta de la Seda",
+        "castigo": "Toma un trago y luego intenta hacer el pino (o una versión segura y graciosa)."
+      },
+      {
+        "pregunta": "¿Qué civilización prehispánica es conocida por sus cabezas colosales?",
+        "opciones": ["Maya", "Zapoteca", "Olmeca", "Tolteca"],
+        "respuesta": "Olmeca",
+        "castigo": "Todos los jugadores deben tomar un trago. El último en terminar, toma otro."
+      }
+    ],
+    "Arte": [
+      {
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": ["Picasso", "Van Gogh", "Monet", "Da Vinci"],
+        "respuesta": "Van Gogh",
+        "castigo": "Toma un shot. Luego, aúlla a la luna (o al techo)."
+      },
+      {
+        "pregunta": "¿Quién esculpió 'El David'?",
+        "opciones": ["Donatello", "Miguel Ángel", "Bernini", "Rodin"],
+        "respuesta": "Miguel Ángel",
+        "castigo": "Dale un beso apasionado a tu vaso antes de tomar un trago."
+      },
+      {
+        "pregunta": "¿En qué museo se encuentra 'La Mona Lisa'?",
+        "opciones": ["Museo del Prado", "Museo Británico", "Museo del Louvre", "Galería Uffizi"],
+        "respuesta": "Museo del Louvre",
+        "castigo": "Elige a alguien para que te pinte un bigote o algo gracioso con un marcador (lavable). Si no, toma 3 tragos."
+      },
+      {
+        "pregunta": "¿Qué artista es famoso por sus pinturas de nenúfares?",
+        "opciones": ["Renoir", "Degas", "Monet", "Manet"],
+        "respuesta": "Monet",
+        "castigo": "Toma 2 tragos y haz tu mejor imitación de alguien borracho."
+      },
+      {
+        "pregunta": "¿Cuál de estos artistas es un exponente del cubismo?",
+        "opciones": ["Salvador Dalí", "Pablo Picasso", "Andy Warhol", "Jackson Pollock"],
+        "respuesta": "Pablo Picasso",
+        "castigo": "Beso en la mejilla a la persona con la ropa más colorida."
+      },
+      {
+        "pregunta": "¿Quién pintó 'El Guernica'?",
+        "opciones": ["Joan Miró", "Salvador Dalí", "Pablo Picasso", "Frida Kahlo"],
+        "respuesta": "Pablo Picasso",
+        "castigo": "Haz una 'ola' con los demás jugadores. El que no la siga bien, toma un trago extra."
+      },
+      {
+        "pregunta": "¿Qué artista mexicano es conocido por sus autorretratos y su relación con Diego Rivera?",
+        "opciones": ["María Izquierdo", "Remedios Varo", "Frida Kahlo", "Leonora Carrington"],
+        "respuesta": "Frida Kahlo",
+        "castigo": "Toma un trago por cada letra 'A' en tu nombre completo."
+      },
+      {
+        "pregunta": "¿Quién es el autor de la escultura 'El Pensador'?",
+        "opciones": ["Auguste Rodin", "Camille Claudel", "Constantin Brancusi", "Alberto Giacometti"],
+        "respuesta": "Auguste Rodin",
+        "castigo": "Quítate los zapatos y huélelos. Si la reacción es mala, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿A qué movimiento artístico pertenece Salvador Dalí?",
+        "opciones": ["Impresionismo", "Expresionismo", "Surrealismo", "Pop Art"],
+        "respuesta": "Surrealismo",
+        "castigo": "Elige a otro jugador. Ambos deben tomar un shot mirándose a los ojos."
+      },
+      {
+        "pregunta": "¿Quién pintó la Capilla Sixtina?",
+        "opciones": ["Leonardo da Vinci", "Rafael Sanzio", "Miguel Ángel", "Tiziano"],
+        "respuesta": "Miguel Ángel",
+        "castigo": "Dale un beso en la nariz a la persona de tu derecha (con consentimiento)."
+      },
+      {
+        "pregunta": "¿Qué artista del Renacimiento es conocido por obras como 'El nacimiento de Venus'?",
+        "opciones": ["Sandro Botticelli", "Donatello", "Fra Angelico", "Masaccio"],
+        "respuesta": "Sandro Botticelli",
+        "castigo": "Haz una declaración de amor ridícula a una botella de alcohol."
+      },
+      {
+        "pregunta": "¿Cuál de estas técnicas pictóricas es característica de Georges Seurat?",
+        "opciones": ["Fresco", "Óleo sobre lienzo", "Puntillismo", "Acuarela"],
+        "respuesta": "Puntillismo",
+        "castigo": "Cascada: Empiezas tú a beber y los demás te siguen. No pares hasta que el de tu derecha pare."
+      },
+      {
+        "pregunta": "¿Quién es considerado el padre del Pop Art?",
+        "opciones": ["Roy Lichtenstein", "Jasper Johns", "Andy Warhol", "Robert Rauschenberg"],
+        "respuesta": "Andy Warhol",
+        "castigo": "Toma un trago y luego haz tu mejor pose de modelo de revista."
+      },
+      {
+        "pregunta": "¿Qué artista neerlandés es famoso por sus autorretratos y su uso del claroscuro, como en 'La ronda de noche'?",
+        "opciones": ["Johannes Vermeer", "Frans Hals", "Rembrandt van Rijn", "Jan Steen"],
+        "respuesta": "Rembrandt van Rijn",
+        "castigo": "Intenta hacer un cumplido sugerente a la persona de tu izquierda sin reírte. Si te ríes, toma."
+      },
+      {
+        "pregunta": "¿Cuál es la nacionalidad del arquitecto Antoni Gaudí, diseñador de la Sagrada Familia?",
+        "opciones": ["Italiana", "Francesa", "Española", "Portuguesa"],
+        "respuesta": "Española",
+        "castigo": "Toma un shot y luego grita ¡Olé! con todas tus fuerzas."
+      },
+      {
+        "pregunta": "¿Qué movimiento artístico busca representar la realidad tal como es, sin idealizaciones?",
+        "opciones": ["Romanticismo", "Realismo", "Simbolismo", "Barroco"],
+        "respuesta": "Realismo",
+        "castigo": "El grupo elige una palabra prohibida para ti. Si la dices antes de tu próximo turno, tomas 2 tragos."
+      },
+      {
+        "pregunta": "¿Quién pintó 'Las Meninas'?",
+        "opciones": ["Francisco de Goya", "El Greco", "Diego Velázquez", "Bartolomé Esteban Murillo"],
+        "respuesta": "Diego Velázquez",
+        "castigo": "Muerde sensualmente una fruta (o imagínala). Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Qué material es más comúnmente asociado con las esculturas de Auguste Rodin?",
+        "opciones": ["Mármol", "Madera", "Bronce", "Acero"],
+        "respuesta": "Bronce",
+        "castigo": "Toma un trago del vaso de otra persona (con su permiso)."
+      },
+      {
+        "pregunta": "¿Qué artista noruego pintó 'El Grito'?",
+        "opciones": ["Gustav Klimt", "Egon Schiele", "Edvard Munch", "Oskar Kokoschka"],
+        "respuesta": "Edvard Munch",
+        "castigo": "Beso de esquimal (nariz con nariz) con la persona de enfrente. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Cuál de estas no es una de las 'Disciplinas de las Bellas Artes' tradicionales?",
+        "opciones": ["Pintura", "Escultura", "Gastronomía", "Música"],
+        "respuesta": "Gastronomía",
+        "castigo": "Deja que el grupo elija una parte de tu cuerpo (no íntima) para escribir algo con un rotulador. Si no, fondo blanco."
+      },
+      {
+        "pregunta": "¿Qué período artístico se caracteriza por la ornamentación excesiva y el dramatismo, sucediendo al Renacimiento?",
+        "opciones": ["Rococó", "Neoclasicismo", "Barroco", "Manierismo"],
+        "respuesta": "Barroco",
+        "castigo": "Toma un trago y luego haz una confesión bochornosa (puede ser inventada)."
+      },
+      {
+        "pregunta": "¿Quién fue el arquitecto principal de la Basílica de San Pedro en el Vaticano durante el Renacimiento?",
+        "opciones": ["Bramante y Miguel Ángel", "Brunelleschi", "Alberti", "Palladio"],
+        "respuesta": "Bramante y Miguel Ángel",
+        "castigo": "Haz un 'body shot' en el brazo de un voluntario. Si no hay, toma 2 shots."
+      },
+      {
+        "pregunta": "¿Qué artista japonés es famoso por 'La gran ola de Kanagawa'?",
+        "opciones": ["Utamaro", "Hokusai", "Hiroshige", "Sharaku"],
+        "respuesta": "Hokusai",
+        "castigo": "Toma un trago cada vez que parpadees hasta tu próximo turno."
+      },
+      {
+        "pregunta": "¿Qué significa 'performance' en el arte contemporáneo?",
+        "opciones": ["Una pintura muy grande", "Una escultura interactiva", "Una acción artística en vivo", "Una instalación multimedia"],
+        "respuesta": "Una acción artística en vivo",
+        "castigo": "Baila sensualmente alrededor de una silla por 30 segundos."
+      },
+      {
+        "pregunta": "¿Cuál de estos colores es un color primario?",
+        "opciones": ["Verde", "Naranja", "Violeta", "Azul"],
+        "respuesta": "Azul",
+        "castigo": "Elige a alguien para que te dé un beso en la frente o en la mano."
+      },
+      {
+        "pregunta": "¿Qué es un 'fresco' en pintura?",
+        "opciones": ["Una pintura sobre lienzo seco", "Una pintura realizada sobre yeso húmedo", "Una técnica de grabado", "Un tipo de escultura en relieve"],
+        "respuesta": "Una pintura realizada sobre yeso húmedo",
+        "castigo": "Toma un trago y luego cuenta un chiste malo. Si nadie se ríe, toma otro."
+      },
+      {
+        "pregunta": "¿Qué artista es conocido por sus 'Móviles' (esculturas cinéticas)?",
+        "opciones": ["Jean Arp", "Alexander Calder", "Henry Moore", "Louise Bourgeois"],
+        "respuesta": "Alexander Calder",
+        "castigo": "Tienes que mantener contacto visual con la persona de tu derecha mientras ambos toman un trago."
+      },
+      {
+        "pregunta": "¿A qué movimiento artístico perteneció Gustav Klimt, conocido por 'El Beso'?",
+        "opciones": ["Art Nouveau (Modernismo)", "Expresionismo Abstracto", "Fauvismo", "Simbolismo"],
+        "respuesta": "Art Nouveau (Modernismo)",
+        "castigo": "Da un beso (en la mejilla o donde acuerden) al jugador con los labios más bonitos (según tú)."
+      },
+      {
+        "pregunta": "¿Qué es la 'perspectiva' en el dibujo y la pintura?",
+        "opciones": ["La elección de colores", "La técnica para crear ilusión de profundidad", "El tema principal de la obra", "La firma del artista"],
+        "respuesta": "La técnica para crear ilusión de profundidad",
+        "castigo": "Inventa un cóctel con los ingredientes que tengas a mano y toma un trago. Invita a alguien más."
+      },
+      {
+        "pregunta": "¿Quién pintó 'La joven de la perla' (también conocida como 'Muchacha con turbante')?",
+        "opciones": ["Rembrandt", "Johannes Vermeer", "Frans Hals", "Pieter de Hooch"],
+        "respuesta": "Johannes Vermeer",
+        "castigo": "Elige a alguien para hacer un brindis muy elaborado y ridículo. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Qué es el 'Land Art'?",
+        "opciones": ["Arte realizado con materiales reciclados", "Arte creado en la naturaleza, utilizando materiales naturales", "Pinturas de paisajes", "Esculturas de animales"],
+        "respuesta": "Arte creado en la naturaleza, utilizando materiales naturales",
+        "castigo": "Toma un shot y luego haz tu mejor imitación de un animal salvaje."
+      },
+      {
+        "pregunta": "¿Qué pintor postimpresionista se cortó parte de una oreja?",
+        "opciones": ["Paul Gauguin", "Vincent van Gogh", "Paul Cézanne", "Henri de Toulouse-Lautrec"],
+        "respuesta": "Vincent van Gogh",
+        "castigo": "Quítate una media o calcetín usando solo los dientes. Si no puedes, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿Qué es un 'díptico' en arte?",
+        "opciones": ["Una obra de arte con dos paneles", "Una técnica de escultura", "Un tipo de pincel", "Un color específico"],
+        "respuesta": "Una obra de arte con dos paneles",
+        "castigo": "Todos los que estén sentados toman un trago. Si estás de pie, te salvas (por ahora)."
+      },
+      {
+        "pregunta": "¿Cuál de estos no es un museo de arte famoso?",
+        "opciones": ["El Prado (Madrid)", "El Hermitage (San Petersburgo)", "El Pentágono (Washington D.C.)", "MoMA (Nueva York)"],
+        "respuesta": "El Pentágono (Washington D.C.)",
+        "castigo": "Lanza un dado (imaginario si no tienes). Tomas el número de tragos que salga."
+      },
+      {
+        "pregunta": "¿Qué artista del Renacimiento fue también un famoso inventor, científico y anatomista?",
+        "opciones": ["Miguel Ángel", "Rafael", "Tiziano", "Leonardo da Vinci"],
+        "respuesta": "Leonardo da Vinci",
+        "castigo": "Elige a un jugador para que te dé un beso en el lugar que elijas (mejilla, mano, frente). Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Qué técnica utiliza un artista para crear una imagen tallando sobre una plancha de madera?",
+        "opciones": ["Litografía", "Aguafuerte", "Xilografía", "Serigrafía"],
+        "respuesta": "Xilografía",
+        "castigo": "Intenta seducir a un objeto inanimado (una silla, una lámpara) por 30 segundos."
+      },
+      {
+        "pregunta": "¿Qué artista estadounidense fue pionero del expresionismo abstracto con su técnica de 'dripping'?",
+        "opciones": ["Mark Rothko", "Willem de Kooning", "Jackson Pollock", "Barnett Newman"],
+        "respuesta": "Jackson Pollock",
+        "castigo": "Toma un trago por cada persona que haya fallado una pregunta antes que tú en esta ronda."
+      },
+      {
+        "pregunta": "¿En qué ciudad se encuentra la Galería Uffizi, uno de los museos de arte más antiguos y famosos del mundo?",
+        "opciones": ["Roma", "Venecia", "Florencia", "Milán"],
+        "respuesta": "Florencia",
+        "castigo": "Propón un brindis sugerente y todos deben tomar."
+      },
+      {
+        "pregunta": "¿Cómo se llama el arte de escribir bellamente?",
+        "opciones": ["Tipografía", "Caligrafía", "Grafología", "Serigrafía"],
+        "respuesta": "Caligrafía",
+        "castigo": "Escribe tu nombre en el trasero de alguien con el dedo (¡encima de la ropa!). Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Qué es un 'boceto'?",
+        "opciones": ["Una obra de arte terminada", "Un dibujo preparatorio rápido", "Un tipo de pintura al óleo", "Una escultura pequeña"],
+        "respuesta": "Un dibujo preparatorio rápido",
+        "castigo": "Elige a alguien para compartir un shot doble."
+      },
+      {
+        "pregunta": "¿Qué movimiento artístico del siglo XX se caracterizó por el uso de colores vivos y formas simplificadas, liderado por Matisse?",
+        "opciones": ["Cubismo", "Fauvismo", "Futurismo", "Surrealismo"],
+        "respuesta": "Fauvismo",
+        "castigo": "Todos deben decir algo 'caliente' sobre la persona a su derecha. El más tímido toma."
+      },
+      {
+        "pregunta": "¿Quién pintó 'El jardín de las delicias'?",
+        "opciones": ["Pieter Brueghel el Viejo", "El Bosco (Hieronymus Bosch)", "Albrecht Dürer", "Hans Holbein el Joven"],
+        "respuesta": "El Bosco (Hieronymus Bosch)",
+        "castigo": "Toma un trago y luego haz una pasarela sexy."
+      },
+      {
+        "pregunta": "¿Qué es la 'Escuela Cusqueña' en la historia del arte peruano?",
+        "opciones": ["Una escuela de arquitectura moderna", "Una tradición pictórica de la época colonial con temas religiosos", "Un movimiento de escultura abstracta", "Una escuela de cerámica prehispánica"],
+        "respuesta": "Una tradición pictórica de la época colonial con temas religiosos",
+        "castigo": "Beso de 'Spiderman' (si se atreven y hay consenso) o 3 tragos cada uno de los involucrados."
+      },
+      {
+        "pregunta": "¿Cuál de estas no es una técnica de grabado?",
+        "opciones": ["Aguafuerte", "Puntaseca", "Collage", "Litografía"],
+        "respuesta": "Collage",
+        "castigo": "Toma un shot y luego haz el sonido más lascivo que puedas."
+      },
+      {
+        "pregunta": "¿Qué famoso fotógrafo estadounidense es conocido por sus imágenes en blanco y negro del Oeste americano, especialmente el Parque Yosemite?",
+        "opciones": ["Ansel Adams", "Robert Capa", "Henri Cartier-Bresson", "Man Ray"],
+        "respuesta": "Ansel Adams",
+        "castigo": "Quien tenga los ojos más claros toma un trago. Si hay empate, todos los empatados toman."
+      },
+      {
+        "pregunta": "¿Qué es el 'sfumato', técnica perfeccionada por Leonardo da Vinci?",
+        "opciones": ["Uso de colores brillantes", "Contornos nítidos y definidos", "Suavizar los contornos para un efecto vaporoso", "Pinceladas gruesas y visibles"],
+        "respuesta": "Suavizar los contornos para un efecto vaporoso",
+        "castigo": "Permite que alguien te dé un beso en el cuello (con consentimiento). Si no, toma 2 shots."
+      },
+      {
+        "pregunta": "¿Qué tipo de arte son los 'ready-mades' de Marcel Duchamp?",
+        "opciones": ["Pinturas abstractas", "Esculturas tradicionales en mármol", "Objetos cotidianos presentados como arte", "Fotografías de paisajes"],
+        "respuesta": "Objetos cotidianos presentados como arte",
+        "castigo": "Todos los que lleven gafas toman un trago. Si nadie lleva, tú tomas 2."
+      },
+      {
+        "pregunta": "¿Qué artista es conocido por pintar bailarinas de ballet?",
+        "opciones": ["Pierre-Auguste Renoir", "Edgar Degas", "Claude Monet", "Camille Pissarro"],
+        "respuesta": "Edgar Degas",
+        "castigo": "Baila un ballet muy torpe y exagerado por 30 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del famoso muralista mexicano, esposo de Frida Kahlo?",
+        "opciones": ["José Clemente Orozco", "David Alfaro Siqueiros", "Diego Rivera", "Rufino Tamayo"],
+        "respuesta": "Diego Rivera",
+        "castigo": "Elige a alguien. Deben tomar un trago al mismo tiempo sin derramar. Si derraman, repiten."
+      },
+      {
+        "pregunta": "¿Qué es el 'Kintsugi' japonés?",
+        "opciones": ["Un tipo de pintura sobre seda", "El arte de reparar cerámica rota con oro", "Una danza tradicional", "Un estilo de arreglo floral"],
+        "respuesta": "El arte de reparar cerámica rota con oro",
+        "castigo": "Toma un shot por cada relación fallida que hayas tenido (puedes mentir para beber más o menos)."
+      }
+    ],
+    "Cine": [
+      {
+        "pregunta": "¿Quién dirigió 'Titanic'?",
+        "opciones": ["Spielberg", "Tarantino", "James Cameron", "Scorsese"],
+        "respuesta": "James Cameron",
+        "castigo": "Toma 2 tragos y luego grita '¡Soy el rey/reina del mundo!'"
+      },
+      {
+        "pregunta": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?",
+        "opciones": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+        "respuesta": "Robert Downey Jr.",
+        "castigo": "Dale un beso en la mejilla al jugador más alto del grupo."
+      },
+      {
+        "pregunta": "¿Cuál de estas películas ganó el Oscar a Mejor Película en 1994?",
+        "opciones": ["Pulp Fiction", "Forrest Gump", "The Shawshank Redemption", "Quiz Show"],
+        "respuesta": "Forrest Gump",
+        "castigo": "Haz un baile erótico con una escoba o almohada por 30 segundos. Luego toma un shot."
+      },
+      {
+        "pregunta": "¿Quién dirigió la trilogía original de 'Star Wars' (Episodios IV, V, VI)?",
+        "opciones": ["George Lucas (IV), Irvin Kershner (V), Richard Marquand (VI)", "Steven Spielberg", "Francis Ford Coppola", "Ridley Scott"],
+        "respuesta": "George Lucas (IV), Irvin Kershner (V), Richard Marquand (VI)",
+        "castigo": "Fondo blanco tu bebida actual."
+      },
+      {
+        "pregunta": "¿Qué película de Disney presenta a un león joven llamado Simba?",
+        "opciones": ["Aladdín", "La Bella y la Bestia", "El Rey León", "Mulán"],
+        "respuesta": "El Rey León",
+        "castigo": "Susúrrale una frase de película seductora al oído a la persona de tu elección."
+      },
+      {
+        "pregunta": "¿Quién es el director de 'Pulp Fiction' y 'Kill Bill'?",
+        "opciones": ["Martin Scorsese", "Steven Spielberg", "Quentin Tarantino", "Christopher Nolan"],
+        "respuesta": "Quentin Tarantino",
+        "castigo": "Quítate una prenda (calcetín, reloj, etc.) y úsala como marioneta para pedir otro trago."
+      },
+      {
+        "pregunta": "¿Qué actor interpretó a Jack Sparrow en la saga 'Piratas del Caribe'?",
+        "opciones": ["Orlando Bloom", "Geoffrey Rush", "Johnny Depp", "Javier Bardem"],
+        "respuesta": "Johnny Depp",
+        "castigo": "Toma un shot. El jugador a tu izquierda toma uno también."
+      },
+      {
+        "pregunta": "¿En qué película de Alfred Hitchcock una mujer es asesinada en la ducha?",
+        "opciones": ["Vértigo", "Los Pájaros", "Psicosis", "Rebecca"],
+        "respuesta": "Psicosis",
+        "castigo": "Elige a dos jugadores para que se den un beso francés simulado (sin tocarse los labios, solo el gesto exagerado)."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del robot amigo de Wall-E en la película 'Wall-E'?",
+        "opciones": ["R2-D2", "BB-8", "EVA", "HAL 9000"],
+        "respuesta": "EVA",
+        "castigo": "Todos los jugadores de tu mismo sexo toman un trago."
+      },
+      {
+        "pregunta": "¿Quién dirigió 'El Señor de los Anillos: La Comunidad del Anillo'?",
+        "opciones": ["George Lucas", "Peter Jackson", "James Cameron", "Ridley Scott"],
+        "respuesta": "Peter Jackson",
+        "castigo": "Intenta morderte el dedo gordo del pie. Si no puedes, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿Qué actriz interpretó a Katniss Everdeen en 'Los Juegos del Hambre'?",
+        "opciones": ["Emma Watson", "Jennifer Lawrence", "Kristen Stewart", "Shailene Woodley"],
+        "respuesta": "Jennifer Lawrence",
+        "castigo": "Dale un beso en el hombro a la persona que consideres más valiente del grupo."
+      },
+      {
+        "pregunta": "¿Cuál es la famosa frase de Terminator?",
+        "opciones": ["'Volveré'", "'Say hello to my little friend'", "'Hasta la vista, baby'", "'Que la fuerza te acompañe'"],
+        "respuesta": "'Hasta la vista, baby'",
+        "castigo": "Toma un trago por cada película de Terminator que hayas visto."
+      },
+      {
+        "pregunta": "¿Qué película de Christopher Nolan trata sobre sueños dentro de sueños?",
+        "opciones": ["Interstellar", "The Dark Knight", "Inception (El Origen)", "Tenet"],
+        "respuesta": "Inception (El Origen)",
+        "castigo": "Habla como si estuvieras drogado hasta tu próximo turno. Si se te olvida, trago."
+      },
+      {
+        "pregunta": "¿Quién compuso la banda sonora de 'Star Wars'?",
+        "opciones": ["Hans Zimmer", "John Williams", "Howard Shore", "Ennio Morricone"],
+        "respuesta": "John Williams",
+        "castigo": "Elige a alguien para que te dé un trago en la boca usando una pajita (o con cuidado del vaso)."
+      },
+      {
+        "pregunta": "¿En qué película aparece el personaje del Joker interpretado por Heath Ledger?",
+        "opciones": ["Batman Begins", "The Dark Knight Rises", "The Dark Knight (El Caballero de la Noche)", "Suicide Squad"],
+        "respuesta": "The Dark Knight (El Caballero de la Noche)",
+        "castigo": "Haz un striptease de un guante o un pañuelo de forma muy dramática."
+      },
+      {
+        "pregunta": "¿Qué director es conocido por películas como 'E.T. el Extraterrestre' y 'Jurassic Park'?",
+        "opciones": ["George Lucas", "James Cameron", "Steven Spielberg", "Martin Scorsese"],
+        "respuesta": "Steven Spielberg",
+        "castigo": "El grupo inventa un castigo de bebida para ti que involucre a otro jugador."
+      },
+      {
+        "pregunta": "¿Cuál es la película de animación de Pixar sobre un robot que limpia la Tierra?",
+        "opciones": ["Toy Story", "Up", "WALL-E", "Ratatouille"],
+        "respuesta": "WALL-E",
+        "castigo": "Beso volado al jugador más callado. Luego, ese jugador toma un trago."
+      },
+      {
+        "pregunta": "¿Qué actor interpretó a Neo en la saga 'Matrix'?",
+        "opciones": ["Laurence Fishburne", "Hugo Weaving", "Keanu Reeves", "Carrie-Anne Moss"],
+        "respuesta": "Keanu Reeves",
+        "castigo": "Toma 3 tragos si has visto las 4 películas de Matrix. Si no, toma 1."
+      },
+      {
+        "pregunta": "¿Cuál de estas películas NO fue dirigida por Hayao Miyazaki?",
+        "opciones": ["El Viaje de Chihiro", "Mi Vecino Totoro", "La Tumba de las Luciérnagas", "La Princesa Mononoke"],
+        "respuesta": "La Tumba de las Luciérnagas",
+        "castigo": "Elige a un jugador. Deben chocar los cinco con los traseros. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Qué película de Martin Scorsese cuenta la historia del boxeador Jake LaMotta?",
+        "opciones": ["Goodfellas", "Taxi Driver", "Raging Bull (Toro Salvaje)", "The Wolf of Wall Street"],
+        "respuesta": "Raging Bull (Toro Salvaje)",
+        "castigo": "Verdad o Atrevimiento con temática 'caliente'. El grupo propone. Si te niegas, fondo blanco."
+      },
+      {
+        "pregunta": "¿En qué película se escucha la frase 'Francamente, querida, me importa un bledo'?",
+        "opciones": ["Casablanca", "Lo que el viento se llevó", "Ciudadano Kane", "El Mago de Oz"],
+        "respuesta": "Lo que el viento se llevó",
+        "castigo": "Intercambia una mirada seductora con la persona de enfrente por 10 segundos. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del director de 'Parásitos', ganadora del Oscar a Mejor Película en 2020?",
+        "opciones": ["Park Chan-wook", "Bong Joon-ho", "Kim Jee-woon", "Lee Chang-dong"],
+        "respuesta": "Bong Joon-ho",
+        "castigo": "Toma un shot si has visto la película. Si no, toma dos."
+      },
+      {
+        "pregunta": "¿Qué actor es conocido por su papel como Hannibal Lecter en 'El Silencio de los Inocentes'?",
+        "opciones": ["Robert De Niro", "Al Pacino", "Anthony Hopkins", "Jack Nicholson"],
+        "respuesta": "Anthony Hopkins",
+        "castigo": "Canta una canción de cuna de forma sexy a otro jugador. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Cuál es el festival de cine más prestigioso de Francia?",
+        "opciones": ["Festival de Berlín", "Festival de Venecia", "Festival de Cannes", "Festival de Sundance"],
+        "respuesta": "Festival de Cannes",
+        "castigo": "La persona a tu izquierda te da un beso en la mejilla."
+      },
+      {
+        "pregunta": "¿Qué película de Stanley Kubrick presenta a una inteligencia artificial llamada HAL 9000?",
+        "opciones": ["La Naranja Mecánica", "El Resplandor", "2001: Odisea del Espacio", "Dr. Strangelove"],
+        "respuesta": "2001: Odisea del Espacio",
+        "castigo": "Sirve los tragos para la próxima ronda usando solo una mano y con los ojos vendados (o cerrados)."
+      },
+      {
+        "pregunta": "¿Qué personaje dice la frase 'Que la fuerza te acompañe' en Star Wars?",
+        "opciones": ["Darth Vader", "Luke Skywalker", "Han Solo", "Obi-Wan Kenobi"],
+        "respuesta": "Obi-Wan Kenobi",
+        "castigo": "Toma un trago por cada persona que esté usando algo negro."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del ogro verde protagonista de una famosa saga de películas de DreamWorks?",
+        "opciones": ["Fiona", "Asno", "Shrek", "Gato con Botas"],
+        "respuesta": "Shrek",
+        "castigo": "Haz el 'baile del pollo' por 15 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Qué película de los hermanos Coen es un western moderno protagonizado por Javier Bardem como un asesino implacable?",
+        "opciones": ["Fargo", "El Gran Lebowski", "No Country for Old Men (Sin lugar para los débiles)", "True Grit"],
+        "respuesta": "No Country for Old Men (Sin lugar para los débiles)",
+        "castigo": "Elige a alguien para que te haga un cumplido atrevido. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Quién interpretó a Vito Corleone en 'El Padrino'?",
+        "opciones": ["Al Pacino", "Robert De Niro", "Marlon Brando", "James Caan"],
+        "respuesta": "Marlon Brando",
+        "castigo": "Baila pegado con una almohada o cojín de forma romántica por 30 segundos."
+      },
+      {
+        "pregunta": "¿Qué película de ciencia ficción de Ridley Scott presenta a un androide llamado Roy Batty?",
+        "opciones": ["Alien", "Blade Runner", "Prometheus", "The Martian"],
+        "respuesta": "Blade Runner",
+        "castigo": "Todos toman un trago, ¡por el cine!"
+      },
+      {
+        "pregunta": "¿Qué actor ganó un Oscar póstumo por su papel del Joker?",
+        "opciones": ["Joaquin Phoenix", "Jack Nicholson", "Heath Ledger", "Jared Leto"],
+        "respuesta": "Heath Ledger",
+        "castigo": "Recibe un beso en el cuello de la persona que elijas (con consentimiento). Si no, toma 2 shots."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del director de cine español conocido por películas como 'Todo sobre mi madre' y 'Hable con ella'?",
+        "opciones": ["Alejandro Amenábar", "Pedro Almodóvar", "Fernando Trueba", "Carlos Saura"],
+        "respuesta": "Pedro Almodóvar",
+        "castigo": "Toma 2 shots si te equivocas, 1 si aciertas y todos aplauden tu sabiduría cinéfila."
+      },
+      {
+        "pregunta": "¿En qué película un arqueólogo aventurero busca el Arca de la Alianza?",
+        "opciones": ["La Momia", "Indiana Jones y los Cazadores del Arca Perdida", "Las Minas del Rey Salomón", "Tomb Raider"],
+        "respuesta": "Indiana Jones y los Cazadores del Arca Perdida",
+        "castigo": "Elige a dos jugadores que deben darse un beso en la mejilla apasionadamente."
+      },
+      {
+        "pregunta": "¿Qué película de animación japonesa de 2016 trata sobre el intercambio de cuerpos entre dos adolescentes?",
+        "opciones": ["Your Name (Kimi no Na wa)", "El tiempo contigo", "A Silent Voice", "El jardín de las palabras"],
+        "respuesta": "Your Name (Kimi no Na wa)",
+        "castigo": "Haz twerking contra la pared por 10 segundos. Si no te atreves, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿Quién dirigió la película 'Roma' (2018)?",
+        "opciones": ["Guillermo del Toro", "Alejandro González Iñárritu", "Alfonso Cuarón", "Luis Estrada"],
+        "respuesta": "Alfonso Cuarón",
+        "castigo": "Toma un trago de 'hidalgo' (sin apoyar el vaso)."
+      },
+      {
+        "pregunta": "¿Qué actor interpreta a Wolverine en la mayoría de las películas de X-Men?",
+        "opciones": ["Patrick Stewart", "Ian McKellen", "Hugh Jackman", "James McAvoy"],
+        "respuesta": "Hugh Jackman",
+        "castigo": "Beso en la mano a la persona de tu izquierda, estilo caballero/dama."
+      },
+      {
+        "pregunta": "Película de terror donde una niñera es acosada por un asesino enmascarado en Halloween:",
+        "opciones": ["Viernes 13", "Pesadilla en Elm Street", "Halloween", "Scream"],
+        "respuesta": "Halloween",
+        "castigo": "Inventa un apodo erótico para el jugador a tu derecha. Ese jugador debe usarlo hasta que falle una pregunta."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del estudio de animación japonés cofundado por Hayao Miyazaki?",
+        "opciones": ["Kyoto Animation", "Sunrise", "Studio Ghibli", "Toei Animation"],
+        "respuesta": "Studio Ghibli",
+        "castigo": "El último en terminar su trago actual, toma otro."
+      },
+      {
+        "pregunta": "¿Qué película de Quentin Tarantino se divide en capítulos y sigue múltiples historias entrelazadas en Los Ángeles?",
+        "opciones": ["Reservoir Dogs", "Pulp Fiction", "Jackie Brown", "Kill Bill: Vol. 1"],
+        "respuesta": "Pulp Fiction",
+        "castigo": "Toma un trago y luego di un piropo atrevido a alguien del grupo."
+      },
+      {
+        "pregunta": "¿En qué película un grupo de ladrones intenta robar un casino en Las Vegas?",
+        "opciones": ["Heat", "Ocean's Eleven (La Gran Estafa)", "The Town", "Inside Man"],
+        "respuesta": "Ocean's Eleven (La Gran Estafa)",
+        "castigo": "Elige a alguien para compartir un trago de forma sugerente (ej. del mismo vaso, uno sirviendo al otro)."
+      },
+      {
+        "pregunta": "¿Qué actriz interpreta a Hermione Granger en la saga de Harry Potter?",
+        "opciones": ["Bonnie Wright", "Evanna Lynch", "Emma Watson", "Katie Leung"],
+        "respuesta": "Emma Watson",
+        "castigo": "Todos los que se consideren 'nerds' (con orgullo) toman un trago."
+      },
+      {
+        "pregunta": "¿Cuál de estas películas de ciencia ficción fue dirigida por James Cameron antes de 'Titanic'?",
+        "opciones": ["Blade Runner", "Alien", "Terminator 2: Judgment Day", "Predator"],
+        "respuesta": "Terminator 2: Judgment Day",
+        "castigo": "Beso en la frente a la persona que creas que necesita más cariño."
+      },
+      {
+        "pregunta": "¿Quién dirigió 'El Laberinto del Fauno'?",
+        "opciones": ["Alfonso Cuarón", "Guillermo del Toro", "Alejandro González Iñárritu", "Juan Antonio Bayona"],
+        "respuesta": "Guillermo del Toro",
+        "castigo": "Fondo blanco lo que te quede. Si es mucho, negocia a un shot doble."
+      },
+      {
+        "pregunta": "¿Qué comedia de 1980 trata sobre tres parapsicólogos que cazan fantasmas en Nueva York?",
+        "opciones": ["Beetlejuice", "Gremlins", "Ghostbusters (Los Cazafantasmas)", "Poltergeist"],
+        "respuesta": "Ghostbusters (Los Cazafantasmas)",
+        "castigo": "No puedes usar tus manos para beber tu próximo trago."
+      },
+      {
+        "pregunta": "¿Qué película de Pixar presenta a un chef rata llamado Remy?",
+        "opciones": ["Cars", "Finding Nemo", "Ratatouille", "The Incredibles"],
+        "respuesta": "Ratatouille",
+        "castigo": "Elige: beso francés con un voluntario/a, o toma 3 shots seguidos."
+      },
+      {
+        "pregunta": "Director de 'Ciudadano Kane', a menudo citada como una de las mejores películas de la historia.",
+        "opciones": ["Orson Welles", "John Ford", "Howard Hawks", "Alfred Hitchcock"],
+        "respuesta": "Orson Welles",
+        "castigo": "Toma un trago y luego declara tu amor eterno al alcohol."
+      },
+      {
+        "pregunta": "¿En qué película de Woody Allen el protagonista se enamora de una mujer que sale de una pantalla de cine?",
+        "opciones": ["Annie Hall", "Manhattan", "La Rosa Púrpura del Cairo", "Medianoche en París"],
+        "respuesta": "La Rosa Púrpura del Cairo",
+        "castigo": "El jugador más joven del grupo te da un beso en la mejilla."
+      },
+      {
+        "pregunta": "¿Qué actor protagoniza la saga de 'Misión Imposible' como Ethan Hunt?",
+        "opciones": ["Brad Pitt", "Matt Damon", "Tom Cruise", "Keanu Reeves"],
+        "respuesta": "Tom Cruise",
+        "castigo": "Toma un shot y luego corre alrededor de la mesa/grupo una vez."
+      },
+      {
+        "pregunta": "¿Qué película peruana fue nominada al Oscar a Mejor Película Extranjera en 2010?",
+        "opciones": ["Contracorriente", "La Teta Asustada", "Paraíso", "Días de Santiago"],
+        "respuesta": "La Teta Asustada",
+        "castigo": "Todos los peruanos (o los que amen Perú) toman un shot de Pisco (o lo que tengan)."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del villano principal en 'Avengers: Infinity War' y 'Avengers: Endgame'?",
+        "opciones": ["Loki", "Ultron", "Thanos", "Red Skull"],
+        "respuesta": "Thanos",
+        "castigo": "Chasquea los dedos. Si alguien te mira, esa persona toma un trago contigo."
+      }
+    ],
+    "Fútbol": [
+      {
+        "pregunta": "¿Qué país ganó el Mundial 2014?",
+        "opciones": ["Argentina", "Brasil", "Alemania", "Francia"],
+        "respuesta": "Alemania",
+        "castigo": "Toma 2 tragos y grita ¡GOOOL! como si tu equipo hubiera ganado la final."
+      },
+      {
+        "pregunta": "¿Quién es conocido como 'Pelé'?",
+        "opciones": ["Diego Maradona", "Edson Arantes do Nascimento", "Lionel Messi", "Cristiano Ronaldo"],
+        "respuesta": "Edson Arantes do Nascimento",
+        "castigo": "Beso en la mejilla al jugador que consideres una 'leyenda' del grupo."
+      },
+      {
+        "pregunta": "¿En qué equipo juega Lionel Messi actualmente (Junio 2025)?",
+        "opciones": ["FC Barcelona", "Paris Saint-Germain", "Inter Miami CF", "Al-Nassr"],
+        "respuesta": "Inter Miami CF",
+        "castigo": "Haz un baile de celebración de gol muy exagerado y 'sexy' por 30 segundos. Luego, toma un shot."
+      },
+      {
+        "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol en el campo al mismo tiempo?",
+        "opciones": ["10", "11", "12", "9"],
+        "respuesta": "11",
+        "castigo": "Fondo blanco tu bebida (o un trago muy largo si es fuerte)."
+      },
+      {
+        "pregunta": "¿Qué país ha ganado más Copas del Mundo?",
+        "opciones": ["Alemania", "Italia", "Argentina", "Brasil"],
+        "respuesta": "Brasil",
+        "castigo": "Susúrrale una táctica de seducción (inventada) al oído a la persona de tu elección."
+      },
+      {
+        "pregunta": "¿Quién ganó el Balón de Oro en 2023 (entregado en octubre de 2023)?",
+        "opciones": ["Kylian Mbappé", "Erling Haaland", "Lionel Messi", "Kevin De Bruyne"],
+        "respuesta": "Lionel Messi",
+        "castigo": "Quítate una prenda (calcetín, reloj, etc.) y pontela en la cabeza por el resto de la ronda. Si no, toma 3 tragos."
+      },
+      {
+        "pregunta": "¿En qué liga europea juega el Real Madrid?",
+        "opciones": ["Premier League (Inglaterra)", "Serie A (Italia)", "La Liga (España)", "Bundesliga (Alemania)"],
+        "respuesta": "La Liga (España)",
+        "castigo": "Toma un shot. El jugador que te hizo la pregunta te sirve el próximo trago."
+      },
+      {
+        "pregunta": "¿Qué jugador es conocido como CR7?",
+        "opciones": ["Neymar Jr.", "Kylian Mbappé", "Cristiano Ronaldo", "Karim Benzema"],
+        "respuesta": "Cristiano Ronaldo",
+        "castigo": "Elige a dos jugadores para que se den un beso en la mejilla 'de campeonato'."
+      },
+      {
+        "pregunta": "¿Cada cuántos años se celebra la Copa Mundial de la FIFA?",
+        "opciones": ["2 años", "3 años", "4 años", "5 años"],
+        "respuesta": "4 años",
+        "castigo": "Todos los jugadores del sexo opuesto al tuyo (o los que elijas si es mixto) toman un trago."
+      },
+      {
+        "pregunta": "¿Qué significa la sigla 'VAR' en el fútbol?",
+        "opciones": ["Video Assistant Referee", "Very Accurate Replay", "Verified Action Review", "Visual Aid Resource"],
+        "respuesta": "Video Assistant Referee",
+        "castigo": "Intenta darle un beso a tu propio hombro. Si no puedes, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿Qué selección nacional es conocida como 'La Naranja Mecánica'?",
+        "opciones": ["Alemania", "Bélgica", "Países Bajos (Holanda)", "Dinamarca"],
+        "respuesta": "Países Bajos (Holanda)",
+        "castigo": "Dale un beso en la mano al jugador con la camiseta de fútbol más chula (o la ropa más deportiva)."
+      },
+      {
+        "pregunta": "¿Quién fue el entrenador de Argentina en el Mundial de Qatar 2022?",
+        "opciones": ["Diego Simeone", "Marcelo Gallardo", "Lionel Scaloni", "Mauricio Pochettino"],
+        "respuesta": "Lionel Scaloni",
+        "castigo": "Toma un trago por cada mundial que recuerdes haber visto."
+      },
+      {
+        "pregunta": "¿Cuál es el estadio del FC Barcelona?",
+        "opciones": ["Santiago Bernabéu", "Camp Nou (Spotify Camp Nou)", "Wanda Metropolitano", "San Mamés"],
+        "respuesta": "Camp Nou (Spotify Camp Nou)",
+        "castigo": "Habla con acento argentino (o un intento gracioso) hasta tu próximo turno. Cada vez que olvides, toma un trago."
+      },
+      {
+        "pregunta": "¿Qué jugador argentino es famoso por 'La Mano de Dios'?",
+        "opciones": ["Lionel Messi", "Mario Kempes", "Diego Maradona", "Gabriel Batistuta"],
+        "respuesta": "Diego Maradona",
+        "castigo": "Elige a alguien para que te dé de beber en la boca como si fueras un bebé (un trago pequeño)."
+      },
+      {
+        "pregunta": "¿En qué país se celebrará la Copa Mundial de la FIFA 2026?",
+        "opciones": ["Brasil", "Alemania", "Qatar", "Canadá, Estados Unidos y México"],
+        "respuesta": "Canadá, Estados Unidos y México",
+        "castigo": "Haz un striptease de un calcetín mientras cantas el himno de tu país (o una canción popular)."
+      },
+      {
+        "pregunta": "¿Cuál es el apodo de la selección peruana de fútbol?",
+        "opciones": ["La Celeste", "La Blanquirroja", "La Roja", "Los Cafeteros"],
+        "respuesta": "La Blanquirroja",
+        "castigo": "El grupo inventa una regla de bebida que debes seguir hasta que alguien más falle. ¡Arriba Perú y a tomar!"
+      },
+      {
+        "pregunta": "¿Qué es un 'hat-trick' en fútbol?",
+        "opciones": ["Marcar dos goles en un partido", "Marcar tres goles en un partido", "Dar tres asistencias", "Ganar tres partidos seguidos"],
+        "respuesta": "Marcar tres goles en un partido",
+        "castigo": "Beso volado a la persona que te parezca más 'goleadora' (atractiva). Luego, esa persona toma un trago."
+      },
+      {
+        "pregunta": "¿Qué club ha ganado más veces la UEFA Champions League?",
+        "opciones": ["FC Barcelona", "Bayern de Múnich", "AC Milan", "Real Madrid"],
+        "respuesta": "Real Madrid",
+        "castigo": "Toma 3 tragos si tu equipo favorito alguna vez ganó la Champions. Si no, toma 1."
+      },
+      {
+        "pregunta": "¿Quién es el máximo goleador histórico de la selección de Portugal?",
+        "opciones": ["Eusébio", "Luís Figo", "Cristiano Ronaldo", "Pauleta"],
+        "respuesta": "Cristiano Ronaldo",
+        "castigo": "Elige a un jugador. Ese jugador debe tomar un trago de tu vaso."
+      },
+      {
+        "pregunta": "¿Cuál de estos jugadores NO es portero?",
+        "opciones": ["Manuel Neuer", "Alisson Becker", "Thibaut Courtois", "Virgil van Dijk"],
+        "respuesta": "Virgil van Dijk",
+        "castigo": "Verdad o Atrevimiento: el grupo elige y debe incluir alcohol o un beso."
+      },
+      {
+        "pregunta": "¿Qué torneo de selecciones se juega en Sudamérica?",
+        "opciones": ["Eurocopa", "Copa Oro", "Copa América", "Copa Africana de Naciones"],
+        "respuesta": "Copa América",
+        "castigo": "Intercambia una prenda de ropa (visible y pequeña, como una pulsera o gorra) con la persona de enfrente hasta el próximo error de alguno de los dos."
+      },
+      {
+        "pregunta": "¿En qué club inglés se hizo famoso David Beckham?",
+        "opciones": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+        "respuesta": "Manchester United",
+        "castigo": "Toma un shot sin usar las manos, ayudado por el jugador de tu derecha."
+      },
+      {
+        "pregunta": "¿Cuál es la duración de un partido de fútbol estándar (sin tiempo extra)?",
+        "opciones": ["80 minutos", "90 minutos", "100 minutos", "120 minutos"],
+        "respuesta": "90 minutos",
+        "castigo": "Canta una canción de cancha (o inventa una) mirando fijamente a otro jugador. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Qué jugador francés es conocido por su cabezazo a Materazzi en la final del Mundial 2006?",
+        "opciones": ["Thierry Henry", "Patrick Vieira", "Zinedine Zidane", "Frank Ribéry"],
+        "respuesta": "Zinedine Zidane",
+        "castigo": "La persona a tu derecha te da un beso en la frente como si fueras un campeón."
+      },
+      {
+        "pregunta": "¿Qué equipo de la Premier League es conocido como 'The Gunners'?",
+        "opciones": ["Chelsea", "Tottenham Hotspur", "Arsenal", "Manchester City"],
+        "respuesta": "Arsenal",
+        "castigo": "Sirve los shots para todos en la próxima ronda, con una floritura de barman."
+      },
+      {
+        "pregunta": "¿Cuántos puntos se otorgan por una victoria en la mayoría de las ligas de fútbol?",
+        "opciones": ["1 punto", "2 puntos", "3 puntos", "4 puntos"],
+        "respuesta": "3 puntos",
+        "castigo": "Toma un trago por cada gol que haya metido tu equipo favorito en su último partido."
+      },
+      {
+        "pregunta": "¿Qué es una 'tarjeta roja' en el fútbol?",
+        "opciones": ["Advertencia al jugador", "Expulsión del jugador", "Sustitución obligatoria", "Gol anulado"],
+        "respuesta": "Expulsión del jugador",
+        "castigo": "Haz un 'perreo' intenso por 15 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Cuál es el clásico rival de Alianza Lima en el fútbol peruano?",
+        "opciones": ["Sporting Cristal", "Universitario de Deportes", "Cienciano", "Melgar"],
+        "respuesta": "Universitario de Deportes",
+        "castigo": "Elige a alguien para que te haga un cumplido subido de tono. Luego ambos toman un shot."
+      },
+      {
+        "pregunta": "¿En qué posición jugaba principalmente Franz Beckenbauer, 'El Káiser'?",
+        "opciones": ["Delantero", "Portero", "Líbero (Defensa)", "Centrocampista ofensivo"],
+        "respuesta": "Líbero (Defensa)",
+        "castigo": "Baila la canción más de moda de forma muy sensual por 30 segundos."
+      },
+      {
+        "pregunta": "¿Qué selección ganó la Eurocopa 2020 (celebrada en 2021)?",
+        "opciones": ["Francia", "Inglaterra", "Italia", "España"],
+        "respuesta": "Italia",
+        "castigo": "Todos los que alguna vez jugaron fútbol (así sea de niños) toman un trago."
+      },
+      {
+        "pregunta": "¿Quién es el actual entrenador del Liverpool FC (Junio 2025)?",
+        "opciones": ["Jürgen Klopp", "Pep Guardiola", "Arne Slot", "Xabi Alonso"],
+        "respuesta": "Arne Slot",
+        "castigo": "Recibe un beso en el cuello de la persona de tu izquierda (con consentimiento). Si no, ambos toman un shot."
+      },
+      {
+        "pregunta": "¿Qué significa 'fuera de juego' (offside)?",
+        "opciones": ["Un jugador está fuera del campo", "Un jugador recibe el balón detrás del último defensor", "Un jugador comete una falta grave", "Un equipo tiene demasiados jugadores"],
+        "respuesta": "Un jugador recibe el balón detrás del último defensor",
+        "castigo": "Toma 2 shots si te equivocas, 1 si aciertas pero igual te toca por difícil."
+      },
+      {
+        "pregunta": "¿Cuál es el apodo del estadio del Borussia Dortmund, famoso por su 'Muro Amarillo'?",
+        "opciones": ["Allianz Arena", "Signal Iduna Park (Westfalenstadion)", "Old Trafford", "Anfield"],
+        "respuesta": "Signal Iduna Park (Westfalenstadion)",
+        "castigo": "Elige a dos jugadores que deben darse un beso esquimal (nariz con nariz) y decir 'te quiero'."
+      },
+      {
+        "pregunta": "¿Qué jugador brasileño es famoso por sus elásticas y su 'jogo bonito'?",
+        "opciones": ["Kaká", "Ronaldinho", "Rivaldo", "Romário"],
+        "respuesta": "Ronaldinho",
+        "castigo": "Haz twerking mientras el grupo cuenta hasta 10. Si no, toma 2 tragos."
+      },
+      {
+        "pregunta": "¿En qué año Perú clasificó a su último Mundial antes de Rusia 2018?",
+        "opciones": ["1970", "1978", "1982", "1990"],
+        "respuesta": "1982",
+        "castigo": "Toma un trago con los ojos vendados (o cerrados) mientras alguien te guía el vaso."
+      },
+      {
+        "pregunta": "¿Qué club italiano es conocido como la 'Vecchia Signora' (Vieja Señora)?",
+        "opciones": ["AC Milan", "Inter de Milán", "AS Roma", "Juventus"],
+        "respuesta": "Juventus",
+        "castigo": "Beso en la mano a la persona de tu derecha, con mucha galantería."
+      },
+      {
+        "pregunta": "¿Quién fue el máximo goleador del Mundial de Qatar 2022?",
+        "opciones": ["Lionel Messi", "Kylian Mbappé", "Olivier Giroud", "Julián Álvarez"],
+        "respuesta": "Kylian Mbappé",
+        "castigo": "Inventa un apodo picante para cada jugador. Luego toma un trago por el más original."
+      },
+      {
+        "pregunta": "¿Qué es un 'derbi' en fútbol?",
+        "opciones": ["Un partido amistoso", "Un partido entre equipos de diferentes países", "Un partido entre equipos de la misma ciudad o región con gran rivalidad", "La final de un torneo"],
+        "respuesta": "Un partido entre equipos de la misma ciudad o región con gran rivalidad",
+        "castigo": "El último en gritar el nombre de su equipo favorito toma un shot."
+      },
+      {
+        "pregunta": "¿Cuál de estos jugadores no es argentino?",
+        "opciones": ["Paulo Dybala", "Lautaro Martínez", "Luis Suárez", "Ángel Di María"],
+        "respuesta": "Luis Suárez",
+        "castigo": "Toma un trago cada vez que alguien se ría hasta tu próximo turno."
+      },
+      {
+        "pregunta": "¿Qué es el 'Balón de Oro Dream Team'?",
+        "opciones": ["El mejor equipo de un año específico", "Un equipo histórico ideal elegido por France Football", "El equipo ganador de la Champions League", "Una selección de jugadores retirados"],
+        "respuesta": "Un equipo histórico ideal elegido por France Football",
+        "castigo": "Elige a alguien para que te dé un masaje 'relajante' en el cuello por 30s. Si se niega, ambos toman."
+      },
+      {
+        "pregunta": "¿En qué posición se destacó Lev Yashin, 'La Araña Negra'?",
+        "opciones": ["Delantero", "Defensa", "Portero", "Mediocampista"],
+        "respuesta": "Portero",
+        "castigo": "Todos los que lleven algo de color negro toman un trago. Si nadie lleva, tú tomas 2."
+      },
+      {
+        "pregunta": "¿Qué país ganó la primera Copa Mundial de la FIFA en 1930?",
+        "opciones": ["Brasil", "Argentina", "Uruguay", "Italia"],
+        "respuesta": "Uruguay",
+        "castigo": "Haz una pose de futbolista sexy y mantenla por 15 segundos. Luego toma un trago."
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del trofeo que se entrega al ganador de la Copa Libertadores?",
+        "opciones": ["Copa Sudamericana", "Trofeo de Campeones", "Copa Libertadores", "Recopa Sudamericana"],
+        "respuesta": "Copa Libertadores",
+        "castigo": "Elige a un jugador para darle un beso en la rodilla. Luego ambos toman."
+      },
+      {
+        "pregunta": "¿Quién es el único jugador que ha ganado tres Copas del Mundo?",
+        "opciones": ["Diego Maradona", "Franz Beckenbauer", "Pelé", "Paolo Maldini"],
+        "respuesta": "Pelé",
+        "castigo": "Toma un shot si eres el mayor del grupo, toma dos si eres el menor."
+      },
+      {
+        "pregunta": "¿Qué equipo es conocido como los 'Diablos Rojos' en Inglaterra?",
+        "opciones": ["Liverpool", "Manchester City", "Manchester United", "Arsenal"],
+        "respuesta": "Manchester United",
+        "castigo": "Dale un beso en la frente a la persona de tu izquierda como si fuera tu 'diablito travieso'."
+      },
+      {
+        "pregunta": "¿Cuál es el récord de goles en una sola edición de la Copa del Mundo (masculina)?",
+        "opciones": ["10 goles (Sándor Kocsis)", "11 goles (Gerd Müller)", "13 goles (Just Fontaine)", "8 goles (Ronaldo Nazário)"],
+        "respuesta": "13 goles (Just Fontaine)",
+        "castigo": "Fondo blanco lo que te quede en el vaso ¡por el récord!"
+      },
+      {
+        "pregunta": "¿Qué jugador neerlandés fue una figura clave del 'Fútbol Total' en la década de 1970?",
+        "opciones": ["Marco van Basten", "Ruud Gullit", "Johan Cruyff", "Dennis Bergkamp"],
+        "respuesta": "Johan Cruyff",
+        "castigo": "No puedes decir groserías hasta tu próximo turno. Si fallas, toma un trago cada vez."
+      },
+      {
+        "pregunta": "¿Cuál es el club más laureado de la Bundesliga alemana?",
+        "opciones": ["Borussia Dortmund", "Werder Bremen", "Hamburgo SV", "Bayern de Múnich"],
+        "respuesta": "Bayern de Múnich",
+        "castigo": "Elige: un beso apasionado (si hay voluntario/a y acuerdo) o el grupo te pone un castigo de 3 shots."
+      },
+      {
+        "pregunta": "¿Quién fue el capitán de la selección italiana que ganó el Mundial 2006?",
+        "opciones": ["Francesco Totti", "Fabio Cannavaro", "Andrea Pirlo", "Gianluigi Buffon"],
+        "respuesta": "Fabio Cannavaro",
+        "castigo": "Toma un trago y luego haz una declaración de amor al fútbol."
+      },
+      {
+        "pregunta": "¿Qué es la 'ley de la ventaja' en el fútbol?",
+        "opciones": ["Permitir que el juego continúe después de una falta si el equipo no infractor tiene una oportunidad", "Dar ventaja al equipo local", "Permitir más tiempo de descuento", "Un tipo de saque de esquina"],
+        "respuesta": "Permitir que el juego continúe después de una falta si el equipo no infractor tiene una oportunidad",
+        "castigo": "Todos los jugadores deben tomar un trago. El último en terminar, sirve la siguiente ronda."
+      }
+    ]
+  }
+}
